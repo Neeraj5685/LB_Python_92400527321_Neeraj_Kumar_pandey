@@ -2,7 +2,7 @@
 
  Student Details
 
-* Name: Neeraj Pandey
+* Name: Neeraj kumar Pandey
 * Enrollment Number: 92400527321
 * Course: BCA
 * Semester: 4
@@ -20,27 +20,27 @@ It includes basic to intermediate Python programs such as:
 * OOP concepts
 * data visualization using matplotlib
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 * Python 3
 
-## 📂 Folder Structure
+ Folder Structure
 
 * Programs (.py files)
 * Documents (PDF / DOCX)
 * Database (if any)
 
-## ▶️ How to Run
+ How to Run
 
 1. Install Python
 2. Open terminal or command prompt
 3. Run program using:
    python filename.py
 
-## 🎯 Objective
+ Objective
 
 To learn and implement basic Python programming concepts.
 
-## 📌 Conclusion
+ Conclusion
 
 This lab manual helped in understanding core Python concepts and improving programming skills.
